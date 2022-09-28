@@ -1,0 +1,41 @@
+.city1{
+    background-color: aquamarine;
+    color:white;
+    padding: 10px;;
+    } 
+.city2{
+    background-color: rgb(205, 146, 73);
+    color:white;
+    padding: 10px;;
+    }
+.city3{
+    background-color: rgb(176, 127, 255);
+    color:white;
+    padding: 10px;;
+    }
+
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: rgb(48, 225, 128);
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: rgb(93, 20, 220);
+            text-align: center;
+            padding: 10px 15px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: rgb(32, 5, 5);
+        }
+    
+        
